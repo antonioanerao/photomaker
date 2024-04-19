@@ -4,6 +4,7 @@ diffusers==0.25.0
 transformers==4.36.2
 huggingface-hub==0.20.2
 spaces==0.19.4
+photomaker
 numpy
 accelerate
 safetensors
